@@ -2,8 +2,8 @@
 
 <!-- 🌟 PREMIUM ANIMATED HEADER 2026 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ransara-devnath-ofc/ransara-devnath-ofc/main/assets/header.svg">
-  <img alt="Premium Header" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=cba6f7,89b4fa,581c87&height=300&section=header&text=👋%20Hey%20There!&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Ransara%20Devnath%20%7C%20Full%20Stack%20Developer%20%2B%20AI%20Enthusiast&descAlignY=65&descSize=18">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=cba6f7,89b4fa,581c87&height=300&section=header&text=👋%20Hey%20There!&fontSize=60&fontColor=ffffff">
+  <img alt="Premium Header" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=cba6f7,89b4fa,581c87&height=300&section=header&text=👋%20Hey%20There!&fontSize=60&fontColor=ffffff">
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/ransara-devnath-ofc.png" width="180" height="180" alt="Ransara Devnath" style="border-radius: 20px; border: 4px solid #cba6f7; box-shadow: 0 0 30px rgba(203, 166, 247, 0.4); transition: transform 0.3s ease;"/>
+      <img src="https://github.com/ransara-devnath-ofc.png" width="180" height="180" alt="Ransara Devnath" style="border-radius: 20px; border: 4px solid #cba6f7; box-shadow: 0 0 30px rgba(203, 166, 247, 0.3);">
     </td>
     <td width="65%" valign="middle" style="padding: 20px 40px;">
       <div align="left">
@@ -27,7 +27,7 @@
           🚀 Full Stack Developer × AI Explorer × UI/UX Enthusiast
         </p>
         <p style="font-size: 0.95em; color: #cbd5e1; line-height: 1.8; margin-top: 15px;">
-          16-year-old developer from <strong>Matara, Sri Lanka 🇱🇰</strong> crafting high-performance interfaces and exploring cutting-edge AI technologies. Passionate about turning ideas into reality through clean code and stunning design.
+          16-year-old developer from <strong>Matara, Sri Lanka 🇱🇰</strong> crafting high-performance interfaces and exploring cutting-edge AI technologies. Passionate about turning ideas into real-world solutions.
         </p>
         <div style="margin-top: 15px;">
           <img src="https://komarev.com/ghpvc/?username=ransara-devnath-ofc&label=Profile%20Views&color=cba6f7&style=flat-square" alt="Profile Views"/>
@@ -67,13 +67,13 @@
 
 <table border="0" cellpadding="15" cellspacing="8" width="100%" style="max-width: 900px; margin: 0 auto;">
   <tr>
-    <td width="50%" style="background: linear-gradient(135deg, #1e1b4b 0%, #2d1b4e 100%); border: 2px solid #581c87; border-radius: 16px; padding: 25px; box-shadow: 0 8px 32px rgba(203, 166, 247, 0.15); transition: all 0.3s ease;">
+    <td width="50%" style="background: linear-gradient(135deg, #1e1b4b 0%, #2d1b4e 100%); border: 2px solid #581c87; border-radius: 16px; padding: 25px; box-shadow: 0 8px 32px rgba(203, 166, 247, 0.15);">
       <h3 style="margin-top: 0; color: #cba6f7; font-size: 1.3em;">🎯 Mission</h3>
       <p style="color: #cbd5e1; line-height: 1.8; margin-bottom: 0;">
         Building elegant, performant web experiences with modern technologies while constantly exploring AI possibilities to create innovative solutions.
       </p>
     </td>
-    <td width="50%" style="background: linear-gradient(135deg, #1e1b4b 0%, #2d1b4e 100%); border: 2px solid #581c87; border-radius: 16px; padding: 25px; box-shadow: 0 8px 32px rgba(203, 166, 247, 0.15); transition: all 0.3s ease;">
+    <td width="50%" style="background: linear-gradient(135deg, #1e1b4b 0%, #2d1b4e 100%); border: 2px solid #581c87; border-radius: 16px; padding: 25px; box-shadow: 0 8px 32px rgba(203, 166, 247, 0.15);">
       <h3 style="margin-top: 0; color: #cba6f7; font-size: 1.3em;">🌟 Focus Areas</h3>
       <p style="color: #cbd5e1; line-height: 1.8; margin-bottom: 0;">
         <strong>Frontend Mastery:</strong> React, Tailwind CSS<br/>
@@ -92,7 +92,7 @@
 
 ## 🛠️ Tech Stack
 
-<div style="background: linear-gradient(135deg, #0f172a 0%, #1a1f3a 100%); border: 2px solid #581c87; border-radius: 16px; padding: 30px; margin: 0 auto; max-width: 900px; box-shadow: 0 8px 32px rgba(203, 166, 247, 0.1);">
+<div style="background: linear-gradient(135deg, #0f172a 0%, #1a1f3a 100%); border: 2px solid #581c87; border-radius: 16px; padding: 30px; margin: 0 auto; max-width: 900px; box-shadow: 0 8px 32px rgba(203, 166, 247, 0.15);">
 
 ### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
@@ -128,17 +128,17 @@
 <table border="0" cellpadding="0" cellspacing="20" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ransara-devnath-ofc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f172a00&text_color=cbd5e1&title_color=cba6f7&icon_color=89b4fa&rank_icon=github" alt="GitHub Stats" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ransara-devnath-ofc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f172a00&text_color=cbd5e1&title_color=cba6f7&icon_color=89b4fa" alt="GitHub Stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransara-devnath-ofc&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f172a00&text_color=cbd5e1&title_color=cba6f7" alt="Top Languages" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransara-devnath-ofc&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f172a00&text_color=cbd5e1&title_color=cba6f7" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ransara-devnath-ofc&theme=tokyonight&hide_border=true&background=0f172a00&stroke=cba6f7&ring=89b4fa&fire=cba6f7&currStreakNum=cbd5e1&sideNums=cbd5e1&currStreakLabel=cba6f7&dates=94a3b8&border_radius=16&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ransara-devnath-ofc&theme=tokyonight&hide_border=true&background=0f172a00&stroke=cba6f7&ring=89b4fa&fire=cba6f7&currStreakNum=cbd5e1&sideNums=cbd5e1&currStreakLabel=89b4fa&sideLabels=89b4fa&dates=cbd5e1" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -148,7 +148,7 @@
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ransara-devnath-ofc&custom_title=Contribution%20Graph&bg_color=0f172a&color=cba6f7&line=89b4fa&point=89b4fa&area_color=cba6f7&area=true&hide_border=true&radius=16" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ransara-devnath-ofc&custom_title=Contribution%20Graph&bg_color=0f172a&color=cba6f7&line=89b4fa&point=89b4fa&area_color=cba6f7&area=true&hide_border=true&radius=16" alt="Contribution Graph"/>
 
 </div>
 
@@ -161,7 +161,7 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 900px; margin: 0 auto;">
 
 <!-- Project 1 -->
-<div style="background: linear-gradient(135deg, #1e1b4b 0%, #2d1b4e 100%); border: 2px solid #581c87; border-radius: 16px; padding: 30px; box-shadow: 0 8px 32px rgba(203, 166, 247, 0.15); transition: all 0.3s ease; hover: transform 0.3s ease;">
+<div style="background: linear-gradient(135deg, #1e1b4b 0%, #2d1b4e 100%); border: 2px solid #581c87; border-radius: 16px; padding: 30px; box-shadow: 0 8px 32px rgba(203, 166, 247, 0.15); transition: all 0.3s ease;">
   <div style="font-size: 2.5em; margin-bottom: 15px;">🤖</div>
   <h3 style="margin-top: 0; color: #cba6f7; font-size: 1.4em;">RansGPT AI</h3>
   <p style="color: #cbd5e1; font-size: 0.95em; line-height: 1.6; min-height: 60px; margin: 15px 0;">
@@ -184,7 +184,7 @@
     Professional portfolio website showcasing projects, skills, and achievements with smooth animations and modern design.
   </p>
   <div style="margin: 15px 0;">
-    <span style="display: inline-block; background: linear-gradient(135deg, #581c87, #7c3aed); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.85em; margin-right: 8px; margin-bottom: 8px;">React</span>
+    <span style="display: inline-block; background: linear-gradient(135deg, #581c87, #7c3aed); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.85em; margin-right: 8px; margin-bottom: 8px;">Next.js</span>
     <span style="display: inline-block; background: linear-gradient(135deg, #581c87, #7c3aed); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.85em; margin-right: 8px; margin-bottom: 8px;">Tailwind CSS</span>
   </div>
   <a href="https://ransara-devnath.vercel.app/" target="_blank" style="color: #89b4fa; text-decoration: none; font-weight: bold; font-size: 1em; transition: color 0.3s ease;">
