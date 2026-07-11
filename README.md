@@ -134,8 +134,8 @@
 <!-- ========== ANIMATED HEADER ========== -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=cba6f7,89b4fa,581c87&height=300&section=header&text=👋%20Welcome%20Aboard!&fontSize=70&fontColor=cbd5e1&animation=fadeIn&rotate=-5&fontAlignY=40&descAlign=70&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Creative%20Coder"/>
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=cba6f7,89b4fa,581c87&height=300&section=header&text=👋%20Welcome%20Aboard!&fontSize=70&fontColor=cbd5e1&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=cba6f7,89b4fa,581c87&height=300&section=header&text=👋%20Welcome%20Aboard!&fontSize=70&fontColor=fff"/>
+    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=cba6f7,89b4fa,581c87&height=300&section=header&text=👋%20Welcome%20Aboard!&fontSize=70&fontColor=fff"/>
   </picture>
 </div>
 
@@ -155,7 +155,7 @@
             opacity: 0.5;
             animation: rotateGradient 6s ease-in-out infinite;
             background-size: 300% 300%;
-            blur: 20px;
+            filter: blur(20px);
           "></div>
           <img 
             src="https://github.com/ransara-devnath-ofc.png" 
@@ -216,7 +216,7 @@
             animation: fadeInUp 1.4s ease-out;
             font-family: 'Poppins', sans-serif;
           ">
-            <strong>16-year-old developer</strong> from <strong style="color: #cba6f7;">Matara, Sri Lanka 🇱🇰</strong> crafting <strong>high-performance interfaces</strong> and exploring <strong>cutting-edge AI technologies</strong>. Passionate about turning <strong>ideas into reality</strong> with elegant code and creative design.
+            <strong>16-year-old developer</strong> from <strong style="color: #cba6f7;">Matara, Sri Lanka 🇱🇰</strong> crafting <strong>high-performance interfaces</strong> and exploring <strong>cutting-edge AI technologies</strong> to build impactful digital solutions.
           </p>
           
           <div style="
@@ -539,15 +539,15 @@
 
   <div class="stats-grid">
     <div class="stats-card">
-      <img src="https://github-readme-stats.vercel.app/api?username=ransara-devnath-ofc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f172a00&text_color=cbd5e1&title_color=cba6f7&icon_color=89b4fa" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ransara-devnath-ofc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f172a00&text_color=cbd5e1&title_color=cba6f7"/>
     </div>
     <div class="stats-card" style="animation-delay: 0.2s;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransara-devnath-ofc&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f172a00&text_color=cbd5e1&title_color=cba6f7" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransara-devnath-ofc&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f172a00&text_color=cbd5e1&title_color=cba6f7"/>
     </div>
   </div>
 
   <div style="animation: fadeInUp 3s ease-out;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ransara-devnath-ofc&theme=tokyonight&hide_border=true&background=0f172a00&stroke=cba6f7&ring=89b4fa&fire=cba6f7&currStreakNum=cbd5e1&sideNums=cbd5e1" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ransara-devnath-ofc&theme=tokyonight&hide_border=true&background=0f172a00&stroke=cba6f7&ring=89b4fa&fire=cba6f7&currStreakNum=cbd5e1"/>
   </div>
 </div>
 
@@ -555,7 +555,7 @@
 
 <!-- ========== CONTRIBUTION ACTIVITY ========== -->
 <div align="center" style="animation: fadeInUp 3.2s ease-out; margin: 50px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ransara-devnath-ofc&custom_title=Contribution%20Graph&bg_color=0f172a&color=cba6f7&line=89b4fa&point=89b4fa&area_color=cba6f7&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ransara-devnath-ofc&custom_title=Contribution%20Graph&bg_color=0f172a&color=cba6f7&line=89b4fa&point=89b4fa&area_color=cba6f7&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -786,13 +786,12 @@
     }
 
     .social-icon {
-      display: inline-block;
+      display: inline-flex;
       width: 50px;
       height: 50px;
       border-radius: 50%;
       background: linear-gradient(135deg, rgba(203, 166, 247, 0.1) 0%, rgba(137, 180, 250, 0.1) 100%);
       border: 2px solid rgba(203, 166, 247, 0.3);
-      display: flex;
       align-items: center;
       justify-content: center;
       transition: all 0.3s ease;
@@ -837,7 +836,7 @@
 <!-- ========== ANIMATED FOOTER ========== -->
 <div align="center" style="animation: fadeInUp 3.8s ease-out; margin-top: 50px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=cba6f7,89b4fa,581c87&height=120&section=footer&animation=fadeIn&rotate=180"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=cba6f7,89b4fa,581c87&height=120&section=footer&animation=fadeIn"/>
     <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=cba6f7,89b4fa,581c87&height=120&section=footer&animation=fadeIn"/>
   </picture>
 
