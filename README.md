@@ -1,207 +1,176 @@
+<!-- PREMIUM HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e1b4b,581c87,3b0764&height=250&section=header&text=Hey%20There!%20👋&fontSize=48&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%"/>
+</p>
+
+<!-- SPLIT SECTION: GIF & INTRO -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <!-- Left Column: Sleek Coding GIF -->
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5b3N6MWUwd20zbG1kcmNna3puMHBna3VzMHpzcGxlMm5xb3RxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zg21fE652Rm6Mc7CcW/giphy.gif" width="90%" alt="Developer Animation" style="border-radius: 12px;"/>
+    </td>
+    <!-- Right Column: Interactive Intro -->
+    <td width="55%" valign="top" style="padding-left: 20px;">
+      <div align="left">
+        <a href="https://ransara-devnath.vercel.app/" target="_blank">
+          <img src="https://github.com/ransara-devnath-ofc.png" width="100" height="100" alt="Ransara Devnath" style="border-radius: 50%; border: 3px solid #89b4fa;"/>
+        </a>
+        <br/><br/>
+        <!-- TYPING ANIMATION -->
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=cba6f7&center=false&vCenter=true&width=450&lines=I'm+Ransara+Devnath+👨‍💻;Frontend+Developer+🚀;AI+Enthusiast+🤖;UI%2FUX+Designer+🎨" alt="Typing SVG"/>
+        </a>
+        <p style="font-size: 15px; color: #94a3b8; line-height: 1.6;">
+          I'm a 16-year-old developer from Sri Lanka, passionate about creating high-performance, visually polished interfaces and exploring modern AI capabilities.
+        </p>
+        <!-- PROFILE VIEWS BADGE -->
+        <img src="https://komarev.com/ghpvc/?username=ransara-devnath-ofc&label=Profile%20Views&color=581c87&style=flat-square" alt="Profile Views"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- QUICK LINKS -->
 <div align="center">
-
-  <!-- DYNAMIC ANIMATED HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=667eea,764ba2,f093fb,4facfe&height=280&section=header&text=Hey%20There!%20👋&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="Header"/>
-
-  <br/><br/>
-
-  <!-- ANIMATED SPARKLES -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="60" alt="Sparkles"/>
-
-  <br/>
-
-  <!-- VISITOR COUNTER -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=ransara-devnath-ofc&label=Profile%20Views&color=667eea&style=for-the-badge&logo=github" alt="Profile Views"/>
-  </div>
-
-  <br/>
-
-  <!-- PROFILE PICTURE WITH GLOW -->
   <a href="https://ransara-devnath.vercel.app/" target="_blank">
-    <img src="https://github.com/ransara-devnath-ofc.png" width="180" height="180" alt="Ransara Devnath" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 0 30px rgba(102, 126, 234, 0.8); transition: all 0.3s ease;"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- ANIMATED TYPING EFFECT -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=I'm+Ransara+Devnath+👨‍💻;Frontend+Developer+🚀;AI+Enthusiast+🤖;UI%2FUX+Designer+🎨" alt="Typing SVG"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- ANIMATED ALIEN MONSTER & SPARKLES -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Alien%20Monster.png" width="50" alt="Alien Monster"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="50" alt="Sparkles"/>
-
-  <br/><br/>
-
-  <!-- TECH STACK ICONS -->
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,figma,git,github,vscode,vercel,netlify&theme=dark&perline=7" alt="Tech Stack"/>
-  </div>
-
-  <br/><br/>
-
-  <!-- GRADIENT DIVIDER -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
-
-  <br/>
-
-  ## 🚀 Quick Links
-
-  <a href="https://ransara-devnath.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-89b4fa?style=flat-square&logo=vercel&logoColor=white&labelColor=0f172a" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://ransgpt-v3-ai.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🤖%20RansGPT%20AI-764ba2?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" alt="RansGPT"/>
+    <img src="https://img.shields.io/badge/🤖%20RansGPT%20AI-cba6f7?style=flat-square&logo=openai&logoColor=white&labelColor=0f172a" alt="RansGPT"/>
   </a>
-
-  <br/><br/>
-
-  <!-- ABOUT ME SECTION -->
-  <h2>✨ About Me</h2>
-
-  <p align="left" style="font-size: 16px; color: #94a3b8;">
-    I'm a <strong>16-year-old Frontend Developer</strong> 🎯 from Sri Lanka, passionate about crafting beautiful, 
-    responsive web applications and exploring AI-powered solutions. I love turning ideas into interactive 
-    experiences and continuously learning new technologies.
-  </p>
-
-  <table border="0" align="center" style="background-color: transparent; width: 100%; max-width: 600px;">
-    <tr>
-      <td align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" alt="HTML"/>
-        <b>Age:</b> 16 Years Old
-      </td>
-      <td align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" alt="GitHub"/>
-        <b>Status:</b> Active Developer
-      </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" alt="React"/>
-        <b>Learning:</b> React, Python & AI
-      </td>
-      <td align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" alt="Linux"/>
-        <b>Location:</b> Matara, Sri Lanka 🇱🇰
-      </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20" alt="Node"/>
-        <b>Goal:</b> Full Stack AI Developer
-      </td>
-      <td align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20" alt="Figma"/>
-        <b>Passion:</b> UI/UX Design
-      </td>
-    </tr>
-  </table>
-
-  <br/><br/>
-
-  <!-- GITHUB STATS SECTION -->
-  <h2>📊 GitHub Analytics</h2>
-
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ransara-devnath-ofc&show_icons=true&theme=transparent&hide_border=true&title_color=667eea&text_color=94a3b8&icon_color=667eea&rank_icon=github&border_radius=15&bg_color=0f172a80" alt="GitHub Stats"/>
-    &nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransara-devnath-ofc&layout=compact&theme=transparent&hide_border=true&title_color=667eea&text_color=94a3b8&border_radius=15&bg_color=0f172a80" alt="Top Languages"/>
-  </div>
-
-  <br/>
-
-  <!-- GITHUB STREAK STATS -->
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ransara-devnath-ofc&theme=dark&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea&border_radius=15" alt="GitHub Streak"/>
-  </div>
-
-  <br/><br/>
-
-  <!-- GITHUB TROPHIES -->
-  <h2>🏆 GitHub Trophies</h2>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=ransara-devnath-ofc&theme=dark_lover&row=1&column=6&no-bg=true&no-frame=true&margin-w=15" alt="Trophies"/>
-
-  <br/><br/>
-
-  <!-- ACTIVITY GRAPH -->
-  <h2>📈 Activity Graph</h2>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ransara-devnath-ofc&custom_title=Ransara's%20GitHub%20Activity&bg_color=0d1117&color=667eea&line=764ba2&point=764ba2&area_color=667eea&area=true&hide_border=true&border_radius=15" alt="Activity Graph"/>
-
-  <br/><br/>
-
-  <!-- FEATURED PROJECTS -->
-  <h2>💼 Featured Projects</h2>
-
-  <table border="1" align="center" cellpadding="15" style="border-collapse: collapse; width: 100%; max-width: 800px; border-color: #667eea; border-radius: 10px;">
-    <tr style="background-color: rgba(102, 126, 234, 0.1);">
-      <th style="color: #667eea; border: 1px solid #667eea;">Project</th>
-      <th style="color: #667eea; border: 1px solid #667eea;">Description</th>
-      <th style="color: #667eea; border: 1px solid #667eea;">Tech Stack</th>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #667eea;"><strong>🤖 RansGPT AI</strong></td>
-      <td style="border: 1px solid #667eea;">AI-powered chat application with real-time responses</td>
-      <td style="border: 1px solid #667eea;">React, Node.js, AI APIs</td>
-    </tr>
-    <tr style="background-color: rgba(102, 126, 234, 0.05);">
-      <td style="border: 1px solid #667eea;"><strong>🌐 Portfolio</strong></td>
-      <td style="border: 1px solid #667eea;">Modern portfolio showcasing my work and skills</td>
-      <td style="border: 1px solid #667eea;">React, Tailwind CSS</td>
-    </tr>
-  </table>
-
-  <br/><br/>
-
-  <!-- CONNECT WITH ME -->
-  <h2>🤝 Connect With Me</h2>
-
-  <div align="center">
-    <a href="https://wa.me/message/XQZHYHBQ3E47I1" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="WhatsApp" height="45"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:ransaramax87@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" height="45"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/ransara-devnath-ofc" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" height="45"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/ransara-devnath" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" height="45"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/ransara_dev" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter" height="45"/>
-    </a>
-  </div>
-
-  <br/><br/>
-
-  <!-- SPARKLES FOOTER -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="60" alt="Sparkles"/>
-
-  <br/><br/>
-
-  <!-- FOOTER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=667eea,764ba2,f093fb,4facfe&height=120&section=footer&animation=fadeIn" alt="Footer" width="100%">
-
-  <br/>
-
-  <p style="color: #94a3b8; font-family: 'Courier New', monospace; font-size: 14px;">
-    <strong>© 2024-2026 Ransara Devnath</strong> | Handcrafted with 💜 using GitHub Markdown
-    <br/>
-    <em>Always Learning | Always Growing 🚀</em>
-  </p>
-
 </div>
+
+<br/><hr style="border: 1px solid #1e1b4b;"/><br/>
+
+<!-- ABOUT ME SECTION (GRID FORMAT) -->
+<h2 align="center">✨ About Me</h2>
+<table align="center" border="0" cellpadding="8" style="border-collapse: collapse; width: 100%; max-width: 700px;">
+  <tr>
+    <td style="color: #94a3b8;">🚀 <b>Age:</b> 16 Years Old</td>
+    <td style="color: #94a3b8;">💻 <b>Learning:</b> React, Python & AI</td>
+  </tr>
+  <tr>
+    <td style="color: #94a3b8;">🎯 <b>Goal:</b> Full Stack AI Developer</td>
+    <td style="color: #94a3b8;">🎨 <b>Passion:</b> UI/UX Design</td>
+  </tr>
+  <tr>
+    <td style="color: #94a3b8;">📍 <b>Location:</b> Matara, Sri Lanka 🇱🇰</td>
+    <td style="color: #94a3b8;">⚡ <b>Status:</b> Active Developer</td>
+  </tr>
+</table>
+
+<br/><hr style="border: 1px solid #1e1b4b;"/><br/>
+
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,figma,git,github,vscode,vercel,netlify&theme=dark&perline=7" alt="Tech Stack"/>
+</div>
+
+<br/><hr style="border: 1px solid #1e1b4b;"/><br/>
+
+<!-- GITHUB ANALYTICS DASHBOARD -->
+<h2 align="center">📊 Analytics Dashboard</h2>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ransara-devnath-ofc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0f172a80" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransara-devnath-ofc&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0f172a80" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ransara-devnath-ofc&theme=tokyonight&hide_border=true&background=0f172a80&border_radius=10&width=100%" alt="GitHub Streak" width="95%"/>
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<h2 align="center">📈 Weekly Activity</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ransara-devnath-ofc&custom_title=Contributions&bg_color=0f172a80&color=cba6f7&line=89b4fa&point=89b4fa&area_color=cba6f7&area=true&hide_border=true&border_radius=10" alt="Activity Graph" width="95%"/>
+</div>
+
+<br/><hr style="border: 1px solid #1e1b4b;"/><br/>
+
+<!-- AUTOMATED LATEST UPDATES WIDGET -->
+<h2 align="center">⚡ Recent Activities</h2>
+<div align="center">
+  <!-- START_SECTION:activity -->
+  <!-- END_SECTION:activity -->
+</div>
+
+<br/><hr style="border: 1px solid #1e1b4b;"/><br/>
+
+<!-- FEATURED PROJECTS CARDS -->
+<h2 align="center">💼 Highlighted Projects</h2>
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="10" width="100%" style="max-width: 800px;">
+    <tr>
+      <!-- Project 1 -->
+      <td width="50%" style="background-color: #0f172a80; border: 1px solid #1e1b4b; border-radius: 12px; padding: 15px; vertical-align: top;">
+        <h3 style="margin-top: 0; color: #89b4fa;">🤖 RansGPT AI</h3>
+        <p style="font-size: 14px; color: #94a3b8; min-height: 50px;">AI-powered chatbot with high responsiveness and custom modules.</p>
+        <span style="font-size: 11px; background-color: #581c87; color: white; padding: 4px 8px; border-radius: 4px;">React</span>
+        <span style="font-size: 11px; background-color: #581c87; color: white; padding: 4px 8px; border-radius: 4px;">OpenAI API</span>
+        <br/><br/>
+        <a href="https://ransgpt-v3-ai.netlify.app/" target="_blank" style="color: #cba6f7; text-decoration: none; font-size: 14px; font-weight: bold;">Visit Project ↗</a>
+      </td>
+      <!-- Project 2 -->
+      <td width="50%" style="background-color: #0f172a80; border: 1px solid #1e1b4b; border-radius: 12px; padding: 15px; vertical-align: top;">
+        <h3 style="margin-top: 0; color: #89b4fa;">🌐 Portfolio</h3>
+        <p style="font-size: 14px; color: #94a3b8; min-height: 50px;">Personal professional web portfolio showcasing work and stats.</p>
+        <span style="font-size: 11px; background-color: #581c87; color: white; padding: 4px 8px; border-radius: 4px;">React</span>
+        <span style="font-size: 11px; background-color: #581c87; color: white; padding: 4px 8px; border-radius: 4px;">Tailwind CSS</span>
+        <br/><br/>
+        <a href="https://ransara-devnath.vercel.app/" target="_blank" style="color: #cba6f7; text-decoration: none; font-size: 14px; font-weight: bold;">Visit Project ↗</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/><hr style="border: 1px solid #1e1b4b;"/><br/>
+
+<!-- CONNECT WITH ME -->
+<h2 align="center">🤝 Connect With Me</h2>
+<div align="center">
+  <a href="https://wa.me/message/XQZHYHBQ3E47I1" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="35"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ransaramax87@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ransara-devnath-ofc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ransara-devnath" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/ransara_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="35"/>
+  </a>
+</div>
+
+<br/><br/>
+
+<!-- PREMIUM FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e1b4b,581c87,3b0764&height=120&section=footer&animation=fadeIn" alt="Footer" width="100%">
+</p>
+
+<p align="center" style="color: #94a3b8; font-family: monospace; font-size: 13px;">
+  <b>© 2026 Ransara Devnath</b> • Crafted with 💜 and Markdown
+  <br/>
+  <i>"Continuous growth through code"</i>
+</p>
