@@ -1,138 +1,123 @@
-# 👋 Welcome Aboard!
-
 <div align="center">
-  <img src="https://github.com/ransara-devnath-ofc.png" width="200" height="200" alt="Ransara Devnath" style="border-radius: 25px; border: 4px solid #cba6f7; box-shadow: 0 0 40px rgba(203, 166, 247, 0.4);">
+
+<img src="https://github.com/ransara-devnath-ofc.png" width="180" height="180" alt="Ransara Devnath" style="border-radius: 50%; border: 4px solid #bb9af7; box-shadow: 0 0 20px rgba(187, 154, 247, 0.5);">
+
+<br/>
+
+<a href="https://ransara-devnath.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7dcfff&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ransara+Devnath+👋;Full+Stack+Developer+%7C+AI+Explorer;NPM+Package+Creator+%7C+UI%2FUX+Enthusiast;Crafting+High-Performance+Web+Experiences" alt="Typing SVG" />
+</a>
+
+**16-year-old developer** from **Matara, Sri Lanka 🇱🇰** crafting **high-performance interfaces**, advanced **NPM packages**, and exploring **cutting-edge AI technologies**.
+
+<br/>
+
+<!-- Modern Tokyo Night Clickable Buttons -->
+<a href="https://ransara-devnath.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_View_Portfolio-1a1b26?style=for-the-badge&logo=vercel&logoColor=white&labelColor=bb9af7&color=1a1b26" alt="Portfolio"/>
+</a>
+<a href="https://www.npmjs.com/package/ranux-fetcher">
+  <img src="https://img.shields.io/badge/📦_ranux--fetcher-1a1b26?style=for-the-badge&logo=npm&logoColor=white&labelColor=7dcfff&color=1a1b26" alt="NPM"/>
+</a>
+<a href="https://ransgpt-v3-ai.netlify.app/">
+  <img src="https://img.shields.io/badge/🤖_Try_RansGPT-1a1b26?style=for-the-badge&logo=openai&logoColor=white&labelColor=7aa2f7&color=1a1b26" alt="RansGPT"/>
+</a>
+
+<br/><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800" height="4">
 </div>
 
-# Ransara Devnath
+<br/>
 
-## 🚀 Full Stack Developer × 🤖 AI Explorer × ✨ UI/UX Enthusiast
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="35" align="center"> About Me
 
-**16-year-old developer** from **Matara, Sri Lanka 🇱🇰** crafting **high-performance interfaces** and exploring **cutting-edge AI technologies** to create innovative web solutions.
+- 🎯 **My Mission:** Building elegant, performant web experiences while constantly exploring AI possibilities to create innovative solutions that matter.
+- 👨‍💻 **Focus Areas:** Advanced Web Scraping, AI Integration, Next.js Architectures, and System Optimizations.
+- 🌱 **Currently Learning:** Advanced Machine Learning concepts & Scalable Edge Networks.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ransara-devnath-ofc&label=Profile%20Views&color=cba6f7&style=flat-square)](https://github.com/ransara-devnath-ofc)
+<br/>
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35" align="center"> Open Source & Featured Projects
 
-## 🌐 Quick Links
+> [!TIP]
+> ### 📦 [ranux-fetcher](https://www.npmjs.com/package/ranux-fetcher) (NPM Library)
+> **The Ultimate Anti-Bot HTTP & Scraping Client. Unblockable, Memory-Safe, and blazing fast.**
+> Built as a drop-in replacement for Axios and `got-scraping` with intelligent context injection.
+> - 🛡️ **99.9% WAF Bypass Rate** (Native bypass for Turnstile, DataDome, Cloudflare)
+> - 🧠 **Cheerio HTML Parser Built-in** (`res.$()`) & **OOM-Safe Media Streams**
+> - ⚡ **Zero-Native Binaries:** 100% Pure JS (Runs flawlessly on Serverless & Termux)
+> 
+> <a href="https://www.npmjs.com/package/ranux-fetcher"><img src="https://img.shields.io/npm/v/ranux-fetcher?style=for-the-badge&color=7dcfff&logo=npm" align="center"></a> &nbsp; <a href="https://www.npmjs.com/package/ranux-fetcher"><img src="https://img.shields.io/npm/dt/ranux-fetcher?style=for-the-badge&color=bb9af7" align="center"></a>
 
-- **[🌐 View Portfolio](https://ransara-devnath.vercel.app/)**
-- **[🤖 Try RansGPT AI](https://ransgpt-v3-ai.netlify.app/)**
-- **[💻 GitHub Profile](https://github.com/ransara-devnath-ofc)**
+> [!NOTE]
+> ### 🤖 [RansGPT AI](https://ransgpt-v3-ai.netlify.app/)
+> Advanced AI-powered chatbot with real-time responsiveness, custom modules, and seamless OpenAI integration. Built with modern React and styled with Tailwind CSS for optimal UX.
+> **Tech Stack:** React · OpenAI · Tailwind CSS · Node.js
 
----
+> [!NOTE]
+> ### 🌐 [Portfolio Website](https://ransara-devnath.vercel.app/)
+> Professional portfolio website showcasing projects, skills, and achievements with smooth animations and modern design. Fully responsive with dark mode support.
+> **Tech Stack:** Next.js · Tailwind CSS · Framer Motion · Vercel
 
-## ✨ About Me
+<br/>
 
-### 🎯 My Mission
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" align="center"> Tech Stack & Tools
 
-Building elegant, performant web experiences with modern technologies while constantly exploring AI possibilities to create innovative solutions that matter.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,mongodb,postgres,figma,git,github,vscode,vercel,netlify&theme=dark&perline=9" />
+  </a>
+</div>
 
-### 🌟 Focus Areas
+<br/>
 
-- **Frontend Mastery:** React, Next.js, Tailwind CSS
-- **Backend Power:** Node.js, Express, Python
-- **AI Integration:** OpenAI APIs, ML Models
-- **Database:** MongoDB, PostgreSQL
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Backend & Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎨 Design & Deployment
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" align="center"> GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ransara-devnath-ofc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f172a00&text_color=cbd5e1&title_color=cba6f7)
+<!-- Base Metrics & Top Languages (Tokyo Night) -->
+<a href="https://github.com/ransara-devnath-ofc">
+  <img src="https://metrics.lecoq.io/ransara-devnath-ofc?template=classic&base=header,activity,community,repositories,metadata&config.theme=tokyonight" width="48%">
+</a>
+<a href="https://github.com/ransara-devnath-ofc">
+  <img src="https://metrics.lecoq.io/ransara-devnath-ofc?template=classic&base=&plugin_languages=yes&plugin_languages_sections=most-used&plugin_languages_details=percentage&config.theme=tokyonight" width="48%">
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ransara-devnath-ofc&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f172a00&text_color=cbd5e1&title_color=cba6f7)
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ransara-devnath-ofc&theme=tokyonight&hide_border=true&background=0f172a00&stroke=cba6f7&ring=89b4fa&fire=cba6f7&currStreakNum=cbd5e1)
+<!-- 3D Isometric Contribution Calendar -->
+<a href="https://github.com/ransara-devnath-ofc">
+  <img src="https://metrics.lecoq.io/ransara-devnath-ofc?template=classic&base=&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&config.theme=tokyonight" width="100%">
+</a>
+
+<br/><br/>
+
+<!-- Animated Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ransara-devnath-ofc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</a>
 
 </div>
 
-### 📈 Contribution Graph
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="35" align="center"> Let's Connect & Create!
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ransara-devnath-ofc&custom_title=Contribution%20Graph&bg_color=0f172a&color=cba6f7&line=89b4fa&point=89b4fa&area_color=cba6f7&hide_border=true)
+<p>Always open to collaborate on exciting projects, discuss innovative ideas, and build something amazing together!</p>
 
-</div>
+<a href="https://wa.me/message/XQZHYHBQ3E47I1"><img src="https://img.shields.io/badge/WhatsApp-1a1b26?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=1a1b26&labelColor=bb9af7" alt="WhatsApp"/></a>
+<a href="mailto:ransaramax87@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=EA4335&color=1a1b26&labelColor=7dcfff" alt="Email"/></a>
+<a href="https://linkedin.com/in/ransara-devnath"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=1a1b26&labelColor=bb9af7" alt="LinkedIn"/></a>
+<a href="https://twitter.com/ransara_dev"><img src="https://img.shields.io/badge/Twitter-1a1b26?style=for-the-badge&logo=twitter&logoColor=1DA1F2&color=1a1b26&labelColor=7dcfff" alt="Twitter"/></a>
 
----
+<br/><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="800" height="4">
 
-## 💼 Featured Projects
-
-### 🤖 RansGPT AI
-
-Advanced AI-powered chatbot with real-time responsiveness, custom modules, and seamless OpenAI integration. Built with modern React and styled with Tailwind CSS for optimal UX.
-
-**Tech Stack:** React · OpenAI · Tailwind CSS · Node.js
-
-[🔗 Explore Project](https://ransgpt-v3-ai.netlify.app/)
-
----
-
-### 🌐 Portfolio Website
-
-Professional portfolio website showcasing projects, skills, and achievements with smooth animations and modern design. Fully responsive with dark mode support and performance optimized.
-
-**Tech Stack:** Next.js · Tailwind CSS · Framer Motion · Vercel
-
-[🔗 Explore Project](https://ransara-devnath.vercel.app/)
-
----
-
-## 🤝 Let's Connect & Create!
-
-Always open to collaborate on exciting projects, discuss innovative ideas, and build something amazing together. Let's turn your vision into reality! 🚀
-
-### 📞 Contact & Social Links
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/XQZHYHBQ3E47I1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ransaramax87@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ransara-devnath-ofc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ransara-devnath)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ransara_dev)
-
----
-
-<div align="center">
-
-### © 2026 Ransara Devnath • All Rights Reserved
-
-Crafted with 💜 **passion** • Designed for 🚀 **impact** • Built with ⚡ **precision**
-
-> _"Continuous growth through code, creativity, and curiosity" 🌟_
-
-✨ **Last Updated:** 2026 • **Status:** 🟢 **Active & Growing**
+<p align="center">
+  Crafted with 💜 <b>passion</b> • Designed for 🚀 <b>impact</b> • Built with ⚡ <b>precision</b><br/>
+  <i>"Continuous growth through code, creativity, and curiosity" 🌟</i>
+</p>
 
 </div>
