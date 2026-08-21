@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://ransara-devnath.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7dcfff&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ransara+Devnath+👋;Full+Stack+Developer+%7C+AI+Explorer;NPM+Package+Creator+%7C+UI%2FUX+Enthusiast;Crafting+High-Performance+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7dcfff&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Ransara+Devnath;Full+Stack+Developer+%7C+AI+Explorer;NPM+Package+Creator+%7C+UI+UX+Enthusiast;Crafting+High-Performance+Web+Apps" alt="Typing SVG" />
 </a>
 
 **16-year-old developer** from **Matara, Sri Lanka 🇱🇰** crafting **high-performance interfaces**, advanced **NPM packages**, and exploring **cutting-edge AI technologies**.
@@ -29,7 +29,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="35" align="center"> About Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="35" align="center"> About Me
 
 - 🎯 **My Mission:** Building elegant, performant web experiences while constantly exploring AI possibilities to create innovative solutions that matter.
 - 👨‍💻 **Focus Areas:** Advanced Web Scraping, AI Integration, Next.js Architectures, and System Optimizations.
@@ -37,7 +37,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35" align="center"> Open Source & Featured Projects
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="35" align="center"> Open Source & Featured Projects
 
 > [!TIP]
 > ### 📦 [ranux-fetcher](https://www.npmjs.com/package/ranux-fetcher) (NPM Library)
@@ -61,7 +61,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35" align="center"> Tech Stack & Tools
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="35" align="center"> Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -71,37 +71,21 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" align="center"> GitHub Analytics
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="35" align="center"> GitHub Contributions
 
 <div align="center">
 
-<!-- Base Metrics & Top Languages (Tokyo Night) -->
-<a href="https://github.com/ransara-devnath-ofc">
-  <img src="https://metrics.lecoq.io/ransara-devnath-ofc?template=classic&base=header,activity,community,repositories,metadata&config.theme=tokyonight" width="48%">
-</a>
-<a href="https://github.com/ransara-devnath-ofc">
-  <img src="https://metrics.lecoq.io/ransara-devnath-ofc?template=classic&base=&plugin_languages=yes&plugin_languages_sections=most-used&plugin_languages_details=percentage&config.theme=tokyonight" width="48%">
-</a>
-
-<br/><br/>
-
-<!-- 3D Isometric Contribution Calendar -->
-<a href="https://github.com/ransara-devnath-ofc">
-  <img src="https://metrics.lecoq.io/ransara-devnath-ofc?template=classic&base=&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&config.theme=tokyonight" width="100%">
-</a>
-
-<br/><br/>
-
-<!-- Animated Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ransara-devnath-ofc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ransara-devnath-ofc/ransara-devnath-ofc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ransara-devnath-ofc/ransara-devnath-ofc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ransara-devnath-ofc/ransara-devnath-ofc/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="35" align="center"> Let's Connect & Create!
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="35" align="center"> Let's Connect & Create!
 
 <div align="center">
 
